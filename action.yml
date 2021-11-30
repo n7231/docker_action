@@ -7,4 +7,4 @@ inputs:
     required: true
 runs:
   using: 'docker'
-  image: 'docker://kjconroy/gengengen'
+  image: 'docker://Tania/n7231'
